@@ -1,6 +1,6 @@
 # Oskarin tietotekniikan projektityö
 
-Näillä sivuilla kerron vinkkejä War Thunder pelin tankkien tuhoamiseksi.
+Näillä sivuilla kerron vinkkejä War Thunder -pelin tankkien tuhoamiseksi.
 
 ## Tarvittavat asennukset
 
