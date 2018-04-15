@@ -3,10 +3,33 @@
     margin-left: 0;
 }
 
+/* Sisennetään navigaatiolinkkejä */
 .tank-select {
     padding-left: 12px;
 }
 
+/* Marginaali tieto-osion yläreunaan */
 #tank-content .card {
     margin-top: 24px;
+}
+
+/* Koti-ikoni mustaksi */
+nav.navbar a {
+    color: black;
+}
+
+/* Koko sivun taustaväriksi ruskeanharmaa */
+body {
+    background-color: #2f2a2a;
+}
+
+/* Navigaatiolinkkien teksti valkoiseksi */
+.nav-pills a.nav-link {
+    color: white;
+}
+
+/* Valittu navigaatiolinkki musta teksti valkoisella taustalla */
+.nav-pills a.nav-link.active {
+    color: #060606;
+    background-color: white;
 }
