@@ -1,3 +1,12 @@
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
 .tank-select {
-    margin-left: 12px;
+    padding-left: 12px;
+}
+
+#tank-content .card {
+    margin-top: 24px;
 }
